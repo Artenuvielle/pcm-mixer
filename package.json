@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@types/node": "^10.12.24",
-    "speaker": "^0.4.1",
+    "speaker": "github:TooTallNate/node-speaker#pull/178/head",
     "typescript": "^3.3.3"
   },
   "dependencies": {
